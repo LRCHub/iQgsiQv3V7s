@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "何も言えなくて･･･夏",
+  "base_artist": "JAYWALK",
+  "createdAt": "2026-03-10T03:31:56.083572Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "何も言えなくて…夏",
+      "artist": "J-WALK",
+      "has_synced": true,
+      "path": "select/01_何も言えなくて...夏_J-WALK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "何も言えなくて･･･夏",
+      "artist": "THE JAYWALK",
+      "has_synced": true,
+      "path": "select/02_何も言えなくて・・・夏_THE_JAYWALK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "何も言えなくて...夏 - 何も言えなくて...夏 JAYWALK ORIGINAL EDITION 1 Al Version",
+      "artist": "THE JAYWALK",
+      "has_synced": true,
+      "path": "select/03_何も言えなくて...夏_-_何も言えなくて...夏_JAYWALK_ORIGINAL_EDITION_1_Al_Version_THE_JAYWALK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "何も言えなくて…夏（何も言えなくて…夏 JAYWALK ORIGINAL EDITION 1 Al Version）",
+      "artist": "JAYWALK",
+      "has_synced": true,
+      "path": "select/04_何も言えなくて...夏(何も言えなくて...夏_JAYWALK_ORIGINAL_EDITION_1_Al_Version)_JAYWALK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "何も言えなくて…夏(ORIGINAL LONG VERSION)",
+      "artist": "THE JAYWALK",
+      "has_synced": true,
+      "path": "select/05_何も言えなくて...夏(ORIGINAL_LONG_VERSION)_THE_JAYWALK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "何も言えなくて…夏",
+      "artist": "JAYWALK",
+      "has_synced": false,
+      "path": "select/pl_01_何も言えなくて...夏_JAYWALK.txt"
+    }
+  ]
+}
